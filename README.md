@@ -1,11 +1,22 @@
-# Olá, eu sou o Gabriel!  
+<h1 align="center">Olá, eu sou o Gabriel! 👋🧬</h1>
 
-Estudante de **Biologia** pela **Universidade Federal de Viçosa**, tenho interesse e estudo voltando minha formação para a área de **Bioinformática**
-Apaixonado por **tecnologia** e por estudar tudo relacionado a **Biologia Molecular**, **Genética** e **Programação**. Busco unir essas duas áreas para desenvolver soluções que contribuam para a ciência e a sociedade. 
+<p align="center">
+  <b>Estudante de Biologia pela UFV | Bioinformática | Biologia Molecular + Programação</b><br>
+  <i>Unindo ciência e tecnologia para transformar dados biológicos em conhecimento.</i>
+</p>
 
 ---
 
-## Tecnologias e Ferramentas  
+## 🚀 Sobre mim  
+
+- 🧬 Estudante de **Biologia** pela **UFV**, com ênfase em **Bioinformática**  
+- 💻 Apaixonado por **programação**, **dados** e **ciência**  
+- 🔬 Interessado em **Biologia Molecular**, **Genética**, **Análise de Dados** e **Ciência Computacional aplicada à Biologia**  
+- ☁️ Explorando tecnologias, algoritmos e linguagens como **Python** e **R** para resolver problemas científicos  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
@@ -15,17 +26,27 @@ Apaixonado por **tecnologia** e por estudar tudo relacionado a **Biologia Molecu
 
 ---
 
-## Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub  
 
-![GabTheCreatorr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabTheCreatorr&show_icons=true&theme=default&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabTheCreatorr&layout=compact&theme=default)  
-
----
-
-## Onde me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-passos-bbb8b41aa)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabTheCreatorr&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabTheCreatorr&layout=compact&theme=default" alt="Top Langs" />
+</div>
 
 ---
 
-</> Em constante aprendizado e evolução.  
+## 🌐 Onde me encontrar  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-passos-bbb8b41aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Sempre em busca de aprendizado, inovação e ciência. 🚀  
+</p>
+
