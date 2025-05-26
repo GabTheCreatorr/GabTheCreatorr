@@ -1,6 +1,7 @@
 # Olá, eu sou o Gabriel!  
 
-Estudante de **Biologia** pela **Universidade Federal de Viçosa**, tenho interesse e estudo voltando minha formação para a área de **Bioinformática**. Apaixonado por **tecnologia** e por estudar tudo relacionado a **Biologia Molecular**, **Genética** e **Programação**. Busco unir essas duas áreas para desenvolver soluções que contribuam para a ciência e a sociedade. 
+Estudante de **Biologia** pela **Universidade Federal de Viçosa**, tenho interesse e estudo voltando minha formação para a área de **Bioinformática**
+Apaixonado por **tecnologia** e por estudar tudo relacionado a **Biologia Molecular**, **Genética** e **Programação**. Busco unir essas duas áreas para desenvolver soluções que contribuam para a ciência e a sociedade. 
 
 ---
 
