@@ -17,8 +17,8 @@ Apaixonado por **tecnologia**, **programação** e por desvendar os mistérios d
 
 ## Estatísticas do GitHub  
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPassosBio&show_icons=true&theme=default&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPassosBio&layout=compact&theme=default)  
+![GabTheCreatorr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabTheCreatorr&show_icons=true&theme=default&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabTheCreatorr&layout=compact&theme=default)  
 
 ---
 
