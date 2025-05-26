@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim  
 
-- 🧬 Estudante de **Biologia** pela **UFV**, com ênfase em **Bioinformática**  
+- 🧬 Estudante de **Biologia** pela **Universidade Federal De Viçosa**, tenho interesse e estudo voltando minha formação para a área de **Bioinformática**  
 - 💻 Apaixonado por **programação**, **dados** e **ciência**  
 - 🔬 Interessado em **Biologia Molecular**, **Genética**, **Análise de Dados** e **Ciência Computacional aplicada à Biologia**  
 - ☁️ Explorando tecnologias, algoritmos e linguagens como **Python** e **R** para resolver problemas científicos  
