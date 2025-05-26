@@ -50,3 +50,14 @@
   ✨ Sempre em busca de aprendizado, inovação e ciência. 🚀  
 </p>
 
+## 🎓 Formação Acadêmica
+
+- 🎓 **Bacharelado em Ciências Biológicas - UFV**
+  - 🧠 Ênfase em **Bioinformática**
+  - 📚 Disciplinas relevantes:
+    - 🐍 Programação em **Python** (pela UFV)
+    - 🧬 Biologia Molecular
+    - 🧪 Genética
+    - 💻 Bioinformática
+    - 📊 Análise de Dados
+    - Atualmente desenvolvendo projetos em Python, com formação acadêmica na linguagem pela UFV como parte da minha graduação em Ciências Biológicas, ênfase em Bioinformática.
